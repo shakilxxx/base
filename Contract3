@@ -1,0 +1,7 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract Contact3 {
+    string public name = "Contact3";
+    uint256 public number = 3;
+}
